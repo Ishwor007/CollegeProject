@@ -21,6 +21,8 @@ import java.awt.event.MouseEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+//admin page
+
 public class AdminLogin extends JFrame {
 
 	private JPanel contentPane;
