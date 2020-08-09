@@ -2,7 +2,7 @@ package com.project.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-
+                            //Database connection
 public class DB {
           public static Connection getDb() {
         	  try {  
