@@ -16,6 +16,8 @@ import javax.swing.ImageIcon;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+//First page
+
 public class ChoosePage extends JFrame {
 
 	private JPanel contentPane;
