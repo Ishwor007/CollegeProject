@@ -1,5 +1,6 @@
 package com.project.model;
 
+//user model
 public class UserLogin {
      private String username;
      private String password;
